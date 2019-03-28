@@ -15,4 +15,4 @@ Richmond Times Dispatch database:
 
 BizJournals:
 
-* Hansen, Drew. "Public paychecks: Who earns the biggest state salaries in Virginia? Check out our database."  _Washngton Business Journals_.  Published 2018-09-30.  Retrieved 2019-03-28.  https://www.bizjournals.com/washington/news/2018/09/30/public-paycheckswho-earns-the-biggest-state.html
+* Hansen, Drew. "Public paychecks: Who earns the biggest state salaries in Virginia? Check out our database."  _Washngton Business Journal_.  Published 2018-09-30.  Retrieved 2019-03-28.  https://www.bizjournals.com/washington/news/2018/09/30/public-paycheckswho-earns-the-biggest-state.html
